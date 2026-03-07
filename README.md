@@ -1,16 +1,17 @@
-# LeetCode Mastery - Java 🚀
+# 🏆 LeetCode Mastery - Java Solutions
 
-> This repository is a reflection of my algorithmic journey. As a **PhD Candidate in Computer Engineering**, I use these challenges to sharpen my backend engineering skills and maintain a high standard of code quality.
+<p align="center">
+  <img src="https://img.shields.io/badge/Solved-400+-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Language-Java-blue?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
 
-### 📈 Progress Summary
-- **Total Solved:** 400+ Problems
-- **Primary Language:** Java ☕
+> **PhD Candidate in Computer Engineering** | Passionate about Algorithms and Scalable Backend Systems.
 
-### 🧠 Key Topics & Expertise
-- **Algorithms:** Dynamic Programming, Greedy, Backtracking, and Divide & Conquer.
-- **Data Structures:** Graphs, Trees (Tries/Segment Trees), Heaps, and HashTables.
-- **System Logic:** String Processing, Two-Pointers, and Sliding Window Optimization.
-- **Database:** SQL Query Optimization and Schema Design.
+### 🧠 Expertise & Topics
+- **Algorithms:** Dynamic Programming, Graph Theory (BFS/DFS), Backtracking, and Divide & Conquer.
+- **Data Structures:** Advanced Trees (Tries, Segment Trees), Heaps, Graphs, and HashTables.
+- **System Logic:** String Processing, Sliding Window Optimization, and Two-Pointers.
+- **Complexity:** Rigorous Time & Space Complexity Analysis for all solutions.
 
 ---
 

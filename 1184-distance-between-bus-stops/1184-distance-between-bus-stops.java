@@ -1,5 +1,6 @@
 class Solution {
     public int distanceBetweenBusStops(int[] distance, int start, int destination) {
+        // comment
         int forward = 0, backward = 0;
         int pointer = start;
         int n = distance.length;

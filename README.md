@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [1122-relative-sort-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1184-distance-between-bus-stops](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1184-distance-between-bus-stops/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |

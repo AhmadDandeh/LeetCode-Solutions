@@ -1,4 +1,5 @@
 class Solution {
+    /*
     public int rob(int[] nums) {
         int n = nums.length;
         if (n == 1) return nums[0];
@@ -14,13 +15,13 @@ class Solution {
             prev2 = temp;
         }
         return prev1;
-    }
+    }*/
 
     /**
      * The logic of keeping 2 houses is correct, but we have more edge cases,
      * We can simplify it with the above tabulation solution 
      */
-    /*
+    
     // Tabulation with variables
     public int rob(int[] nums) {
         int n = nums.length;
@@ -42,7 +43,7 @@ class Solution {
         }
         return x3;
     }
-    */
+    
 
     /*
     // Tabulation with array

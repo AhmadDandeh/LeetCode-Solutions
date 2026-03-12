@@ -1,7 +1,15 @@
 class Solution {
     private int[] parent;
     public int maxStability(int n, int[][] edges, int k) {
-        Arrays.sort(edges, Comparator.comparingInt((int[] a) -> -a[3]).thenComparing(a -> -a[2]));
+        Arrays.sort(edges, new Comparator<int[]>() {
+            @Override
+            public int compare(int[] a, int[] b) {
+                if (a[3] != b[3]) return b[3] - a[3];
+                return b[2] - a[2];
+            }
+        });
+
+        // Arrays.sort(edges, Comparator.comparingInt((int[] a) -> -a[3]).thenComparing(a -> -a[2]));
         parent = new int[n];
         for (int i = 0; i < n; i++) {
             parent[i] = i;

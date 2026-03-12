@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2293-min-max-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2293-min-max-game/) | Easy |
 | [2363-merge-similar-items](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2363-merge-similar-items/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2951-find-the-peaks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2951-find-the-peaks/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
@@ -173,5 +174,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2951-find-the-peaks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2951-find-the-peaks/) | Easy |
 <!---LeetCode Topics End-->

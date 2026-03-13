@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-distance-between-bus-stops](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2293-min-max-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2293-min-max-game/) | Easy |
 | [2363-merge-similar-items](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2363-merge-similar-items/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |

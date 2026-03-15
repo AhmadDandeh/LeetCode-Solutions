@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
 | [3285-find-indices-of-stable-mountains](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3334-find-the-maximum-factor-score-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3334-find-the-maximum-factor-score-of-array/) | Medium |
 | [3386-button-with-longest-push-time](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3386-button-with-longest-push-time/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3334-find-the-maximum-factor-score-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3334-find-the-maximum-factor-score-of-array/) | Medium |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -218,4 +220,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3334-find-the-maximum-factor-score-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3334-find-the-maximum-factor-score-of-array/) | Medium |
 <!---LeetCode Topics End-->

@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2678-number-of-senior-citizens](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2951-find-the-peaks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2951-find-the-peaks/) | Easy |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1009-complement-of-base-10-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1720-decode-xored-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1720-decode-xored-array/) | Easy |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 ## Prefix Sum

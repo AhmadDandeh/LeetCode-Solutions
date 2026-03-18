@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0213-house-robber-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0739-daily-temperatures](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0942-di-string-match](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1122-relative-sort-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -174,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [1122-relative-sort-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |

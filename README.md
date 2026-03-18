@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0213-house-robber-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0217-contains-duplicate](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [1122-relative-sort-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |

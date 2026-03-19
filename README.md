@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0392-is-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0696-count-binary-substrings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [1122-relative-sort-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |

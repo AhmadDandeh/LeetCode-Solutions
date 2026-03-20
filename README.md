@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0205-isomorphic-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [1122-relative-sort-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |

@@ -5,35 +5,31 @@ class Solution {
         if(k == 1) return ans;
         for(int i =0; i<ans.length; i++){
             for(int j =0; j< ans[0].length; j++){
-                ans[i][j] = getSubResult(grid, i, j, k);
+                ans[i][j] = getSubResutl(grid, i, j, k);
             }
         }
         return ans;
     }
 
-    private int getSubResult(int[][] grid, int r, int c, int k) {
-        TreeSet<Integer> set = new TreeSet<>();
-        
-        for (int i = 0; i < k; i++) {
-            for (int j = 0; j < k; j++) {
-                set.add(grid[r + i][c + j]);
+    private int getSubResutl(int[][] grid, int i, int j, int k){
+        int[] arr = new int[k*k];
+        for(int ii = 0; ii< k; ii++){
+            for(int jj = 0; jj< k; jj++){
+                arr[ii+jj*k] = grid[ii+i][jj+j];
             }
         }
-
-        if (set.size() < 2) return 0;
-
+        Arrays.sort(arr);
         int minDiff = Integer.MAX_VALUE;
-        Integer prev = null;
+        boolean foundDistinct = false;
 
-        for (int current : set) {
-            if (prev != null) {
-                int diff = current - prev;
-                if (diff == 1) return 1;
+        for (int ii = 1; ii < arr.length; ii++) {
+            int diff = arr[ii] - arr[ii - 1];
+            if (diff > 0) {
                 minDiff = Math.min(minDiff, diff);
+                foundDistinct = true;
             }
-            prev = current;
         }
 
-        return minDiff;
+        return foundDistinct ? minDiff : 0;
     }
 }

@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1816-truncate-sentence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2278-percentage-of-letter-in-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
@@ -305,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |

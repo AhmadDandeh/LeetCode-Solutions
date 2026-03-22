@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1720-decode-xored-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1720-decode-xored-array/) | Easy |
 | [1816-truncate-sentence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
+| [1861-rotating-the-box](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1332-remove-palindromic-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
+| [1861-rotating-the-box](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
@@ -309,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1861-rotating-the-box](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |

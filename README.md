@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0942-di-string-match](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1052-grumpy-bookstore-owner](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1122-relative-sort-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1184-distance-between-bus-stops](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1052-grumpy-bookstore-owner](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2401-longest-nice-subarray/) | Medium |

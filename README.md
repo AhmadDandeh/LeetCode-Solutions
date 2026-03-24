@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
+| [3248-snake-in-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3334-find-the-maximum-factor-score-of-array/) | Medium |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2278-percentage-of-letter-in-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
+| [3248-snake-in-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Two Pointers
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2293-min-max-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2293-min-max-game/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2365-task-scheduler-ii/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3248-snake-in-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3379-transformed-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3379-transformed-array/) | Easy |
 ## Sliding Window

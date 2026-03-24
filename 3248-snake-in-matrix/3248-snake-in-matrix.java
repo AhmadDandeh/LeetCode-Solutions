@@ -2,13 +2,13 @@ class Solution {
     public int finalPositionOfSnake(int n, List<String> commands) {
         int ans =0;
         for(String s: commands){
-            if(s.equals("UP")){
+            if(s.charAt(0) == 'U'){
                 ans -= n;
             }
-            else if(s.equals("DOWN")){
+            else if(s.charAt(0) == 'D'){
                 ans += n;
             }
-            else if(s.equals("RIGHT")){
+            else if(s.charAt(0) == 'R'){
                 ans++;
             }
             else{

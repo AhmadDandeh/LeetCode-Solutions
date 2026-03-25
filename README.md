@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2278-percentage-of-letter-in-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
+| [3110-score-of-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3248-snake-in-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |

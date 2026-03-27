@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2678-number-of-senior-citizens](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2683-neighboring-bitwise-xor](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2683-neighboring-bitwise-xor/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2906-construct-product-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2917-find-the-k-or-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2917-find-the-k-or-of-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |

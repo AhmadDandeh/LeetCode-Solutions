@@ -11,6 +11,7 @@ class Solution {
         P = {N * (N - 1) * ... * (N - k + 1) * (N - k)! } /  {k! *(N - k)!} =>
         P = {N * (N - 1) * ... * (N - k + 1) } /  { k * k-1 * ... * 1 }
      */
+     /*
     public int uniquePaths(int m, int n) {
         long result = 1;
         int N = m+n-2;
@@ -19,13 +20,13 @@ class Solution {
             result = result * (N - k + i) /i;
         }
         return (int) result;
-    }
+    }*/
 
     /** Dynamic Programming - Grid Type
         Time: O(n*m)
         Space: O(n)
      */
-     /*
+     
     public int uniquePaths(int m, int n) {
         int[] arr = new int[n];
         Arrays.fill(arr, 1);
@@ -36,5 +37,5 @@ class Solution {
         }
         return arr[n-1];
     }
-    */
+    
 }

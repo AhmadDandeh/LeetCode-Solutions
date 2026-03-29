@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2287-rearrange-characters-to-make-target-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3110-score-of-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |

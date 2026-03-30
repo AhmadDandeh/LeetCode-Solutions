@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1009-complement-of-base-10-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1720-decode-xored-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1720-decode-xored-array/) | Easy |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2683-neighboring-bitwise-xor](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2683-neighboring-bitwise-xor/) | Medium |

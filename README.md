@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2678-number-of-senior-citizens](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3019-number-of-changing-keys](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3110-score-of-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2363-merge-similar-items](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2363-merge-similar-items/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2404-most-frequent-even-element](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |

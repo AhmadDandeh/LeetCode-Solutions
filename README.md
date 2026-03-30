@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0130-surrounded-regions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0213-house-robber-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [1476-subrectangle-queries](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1861-rotating-the-box](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
@@ -457,4 +460,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0130-surrounded-regions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0130-surrounded-regions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 <!---LeetCode Topics End-->

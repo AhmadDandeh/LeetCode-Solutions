@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3334-find-the-maximum-factor-score-of-array/) | Medium |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -464,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |

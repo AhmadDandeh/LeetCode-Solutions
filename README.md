@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0053-maximum-subarray](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0130-surrounded-regions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0213-house-robber-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0091-decode-ways](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0213-house-robber-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0063-unique-paths-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [1476-subrectangle-queries](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |

@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1816-truncate-sentence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1015-smallest-integer-divisible-by-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1390-four-divisors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1390-four-divisors/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |

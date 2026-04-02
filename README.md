@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1592-rearrange-spaces-between-words](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1592-rearrange-spaces-between-words/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2751-robot-collisions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2751-robot-collisions/) | Hard |

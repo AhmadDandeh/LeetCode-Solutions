@@ -1,5 +1,6 @@
 class Solution {
     public String removeDuplicates(String s) {
+        // We can use the StringBuilder itself as a stack
         ArrayDeque<Character> stack = new ArrayDeque<>();
         for (int i = 0; i < s.length(); i++) {
         	char c = s.charAt(i);

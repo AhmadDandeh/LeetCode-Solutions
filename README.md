@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
 | [0843-guess-the-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0843-guess-the-word/) | Hard |
 | [0942-di-string-match](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0942-di-string-match/) | Easy |
+| [1078-occurrences-after-bigram](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1078-occurrences-after-bigram/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |

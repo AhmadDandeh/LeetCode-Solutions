@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0739-daily-temperatures](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0843-guess-the-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0843-guess-the-word/) | Hard |
 | [0849-maximize-distance-to-closest-person](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0849-maximize-distance-to-closest-person/) | Medium |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |

@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0739-daily-temperatures](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -415,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1839-longest-substring-of-all-vowels-in-order/) | Medium |

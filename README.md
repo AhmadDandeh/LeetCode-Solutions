@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0006-zigzag-conversion](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0067-add-binary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0091-decode-ways](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |

@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3386-button-with-longest-push-time](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3386-button-with-longest-push-time/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3439-reschedule-meetings-for-maximum-free-time-i/) | Medium |
+| [3452-sum-of-good-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |

@@ -3,7 +3,7 @@ class Solution {
         int mod = 1_000_000_007;
         for(int[] q:queries){
             for(int i = q[0]; i<=q[1]; i+=q[2]){
-                nums[i] = (int) ((1L * nums[i] * q[3]) % mod);
+                nums[i] = (int) (((long) nums[i] * q[3]) % mod);
             }
         }
         int ans = 0;

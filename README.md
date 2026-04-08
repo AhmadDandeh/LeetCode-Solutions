@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3285-find-indices-of-stable-mountains](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3334-find-the-maximum-factor-score-of-array/) | Medium |
+| [3349-adjacent-increasing-subarrays-detection-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3349-adjacent-increasing-subarrays-detection-i/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3379-transformed-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3379-transformed-array/) | Easy |
 | [3386-button-with-longest-push-time](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3386-button-with-longest-push-time/) | Easy |

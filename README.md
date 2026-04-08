@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3634-minimum-removals-to-balance-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3637-trionic-array-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3637-trionic-array-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3683-earliest-time-to-finish-one-task](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -439,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3379-transformed-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3379-transformed-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0849-maximize-distance-to-closest-person](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0849-maximize-distance-to-closest-person/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0942-di-string-match](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0120-triangle/) | Medium |
 | [0213-house-robber-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0931-minimum-falling-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -543,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1476-subrectangle-queries](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1861-rotating-the-box](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1861-rotating-the-box/) | Medium |

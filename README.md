@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-vowels-game-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3248-snake-in-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3330-find-the-original-typed-string-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3330-find-the-original-typed-string-i/) | Easy |
 | [3340-check-balanced-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3340-check-balanced-string/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |

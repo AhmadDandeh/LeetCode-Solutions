@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3206-alternating-groups-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3206-alternating-groups-i/) | Easy |
 | [3208-alternating-groups-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3208-alternating-groups-ii/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
@@ -486,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2401-longest-nice-subarray/) | Medium |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
+| [3206-alternating-groups-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3206-alternating-groups-i/) | Easy |
 | [3208-alternating-groups-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3208-alternating-groups-ii/) | Medium |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |

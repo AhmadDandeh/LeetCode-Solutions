@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
 | [3248-snake-in-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -465,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3248-snake-in-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3379-transformed-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3379-transformed-array/) | Easy |
@@ -497,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |

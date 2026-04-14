@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3011-find-if-array-can-be-sorted](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
+| [3028-ant-on-the-boundary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
@@ -466,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2906-construct-product-matrix/) | Medium |
+| [3028-ant-on-the-boundary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3354-make-array-elements-equal-to-zero](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
@@ -518,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3174-clear-digits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3174-clear-digits/) | Easy |
 | [3248-snake-in-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |

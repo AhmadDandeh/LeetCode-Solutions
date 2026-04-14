@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3011-find-if-array-can-be-sorted](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
 | [3028-ant-on-the-boundary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |

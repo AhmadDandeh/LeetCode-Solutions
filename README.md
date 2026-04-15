@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2798-number-of-employees-who-met-the-target](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2906-construct-product-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2917-find-the-k-or-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2917-find-the-k-or-of-an-array/) | Easy |
+| [2942-find-words-containing-character](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2951-find-the-peaks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2951-find-the-peaks/) | Easy |
 | [2974-minimum-number-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2942-find-words-containing-character](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [3019-number-of-changing-keys](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3110-score-of-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3110-score-of-a-string/) | Easy |

@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2917-find-the-k-or-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2917-find-the-k-or-of-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2951-find-the-peaks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2951-find-the-peaks/) | Easy |
+| [2974-minimum-number-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2500-delete-greatest-value-in-each-row](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2751-robot-collisions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2974-minimum-number-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3011-find-if-array-can-be-sorted](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
@@ -526,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2974-minimum-number-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3174-clear-digits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3174-clear-digits/) | Easy |
@@ -565,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2974-minimum-number-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Shortest Path

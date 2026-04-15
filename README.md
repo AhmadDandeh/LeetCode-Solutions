@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0260-single-number-iii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0260-single-number-iii/) | Medium |
+| [0274-h-index](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0274-h-index](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0274-h-index/) | Medium |
 | [0455-assign-cookies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
@@ -493,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0274-h-index](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0274-h-index/) | Medium |
 | [0383-ransom-note](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0561-array-partition](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |

@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0273-integer-to-english-words](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0273-integer-to-english-words/) | Hard |
+| [0371-sum-of-two-integers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0507-perfect-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0843-guess-the-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0843-guess-the-word/) | Hard |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0201-bitwise-and-of-numbers-range](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0260-single-number-iii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0260-single-number-iii/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0461-hamming-distance](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0461-hamming-distance/) | Easy |
 | [0868-binary-gap](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0868-binary-gap/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |

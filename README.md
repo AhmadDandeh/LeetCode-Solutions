@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0066-plus-one](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0120-triangle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0120-triangle/) | Medium |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0062-unique-paths](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |

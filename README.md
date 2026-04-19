@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0049-group-anagrams](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
@@ -684,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
+| [0051-n-queens](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |

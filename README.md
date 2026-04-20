@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0130-surrounded-regions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0136-single-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
@@ -495,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0136-single-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0201-bitwise-and-of-numbers-range](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0260-single-number-iii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0260-single-number-iii/) | Medium |

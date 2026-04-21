@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0169-majority-element](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0213-house-robber-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0274-h-index](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0274-h-index/) | Medium |
 | [0455-assign-cookies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
@@ -437,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -469,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -562,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0274-h-index](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0274-h-index/) | Medium |
 | [0383-ransom-note](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0561-array-partition](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |

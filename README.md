@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0848-shifting-letters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0942-di-string-match](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0942-di-string-match/) | Easy |
+| [1041-robot-bounded-in-circle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1078-occurrences-after-bigram](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1078-occurrences-after-bigram/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1332-remove-palindromic-subsequences/) | Easy |
@@ -411,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0843-guess-the-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0843-guess-the-word/) | Hard |
 | [0989-add-to-array-form-of-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+| [1041-robot-bounded-in-circle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1390-four-divisors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1390-four-divisors/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -605,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0068-text-justification/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1041-robot-bounded-in-circle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |

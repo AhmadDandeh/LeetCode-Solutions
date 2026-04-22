@@ -449,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -528,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
+| [0190-reverse-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0260-single-number-iii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |

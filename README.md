@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0494-target-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0561-array-partition](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
@@ -467,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
@@ -738,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
+| [0494-target-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |

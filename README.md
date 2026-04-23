@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2546-apply-bitwise-operations-to-make-strings-equal/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2716-minimize-string-length](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2716-minimize-string-length/) | Easy |
 | [2810-faulty-keyboard](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2810-faulty-keyboard/) | Easy |
@@ -632,6 +633,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2365-task-scheduler-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2365-task-scheduler-ii/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2751-robot-collisions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2810-faulty-keyboard](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2810-faulty-keyboard/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -701,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2751-robot-collisions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2751-robot-collisions/) | Hard |
 | [3174-clear-digits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3174-clear-digits/) | Easy |
 ## Monotonic Stack

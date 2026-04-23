@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2546-apply-bitwise-operations-to-make-strings-equal/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [2697-lexicographically-smallest-palindrome](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2716-minimize-string-length](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2716-minimize-string-length/) | Easy |
 | [2810-faulty-keyboard](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2810-faulty-keyboard/) | Easy |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
+| [2697-lexicographically-smallest-palindrome](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
+| [2697-lexicographically-smallest-palindrome](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3439-reschedule-meetings-for-maximum-free-time-i/) | Medium |

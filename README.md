@@ -822,6 +822,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0273-integer-to-english-words](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
@@ -853,6 +854,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Depth-First Search

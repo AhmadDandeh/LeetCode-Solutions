@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2365-task-scheduler-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2365-task-scheduler-ii/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2432-the-employee-that-worked-on-the-longest-task](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2432-the-employee-that-worked-on-the-longest-task/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |

@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2546-apply-bitwise-operations-to-make-strings-equal/) | Medium |
@@ -702,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |

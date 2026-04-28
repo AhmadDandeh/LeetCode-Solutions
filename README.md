@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1895-largest-magic-square](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1895-largest-magic-square/) | Medium |
 | [1929-concatenation-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -626,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1895-largest-magic-square](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1895-largest-magic-square/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
@@ -836,6 +838,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1895-largest-magic-square](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1895-largest-magic-square/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |

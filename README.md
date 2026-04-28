@@ -522,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0213-house-robber-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0338-counting-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
@@ -599,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0260-single-number-iii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0260-single-number-iii/) | Medium |
+| [0338-counting-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0461-hamming-distance](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0461-hamming-distance/) | Easy |
 | [0868-binary-gap](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0868-binary-gap/) | Easy |

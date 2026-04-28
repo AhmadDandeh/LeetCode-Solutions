@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
+| [2217-find-palindrome-with-fixed-length](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2217-find-palindrome-with-fixed-length/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2293-min-max-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2293-min-max-game/) | Easy |
 | [2363-merge-similar-items](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2363-merge-similar-items/) | Easy |
@@ -471,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2081-sum-of-k-mirror-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2081-sum-of-k-mirror-numbers/) | Hard |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2217-find-palindrome-with-fixed-length](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2217-find-palindrome-with-fixed-length/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |

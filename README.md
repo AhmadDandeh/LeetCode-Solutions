@@ -774,6 +774,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -880,6 +881,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Recursion
@@ -900,6 +902,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |

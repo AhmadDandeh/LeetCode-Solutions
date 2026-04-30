@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0561-array-partition](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |

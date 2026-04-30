@@ -621,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0461-hamming-distance](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0461-hamming-distance/) | Easy |
+| [0476-number-complement](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0476-number-complement/) | Easy |
 | [0868-binary-gap](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0868-binary-gap/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |

@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2075-decode-the-slanted-ciphertext](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2194-cells-in-a-range-on-an-excel-sheet/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |

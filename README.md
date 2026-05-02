@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
@@ -448,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
@@ -697,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1122-relative-sort-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |

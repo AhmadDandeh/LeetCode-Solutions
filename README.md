@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0561-array-partition](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0575-distribute-candies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0621-task-scheduler](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -599,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+| [0575-distribute-candies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0621-task-scheduler](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0840-magic-squares-in-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0840-magic-squares-in-grid/) | Medium |

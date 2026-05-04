@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3334-find-the-maximum-factor-score-of-array/) | Medium |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3349-adjacent-increasing-subarrays-detection-i/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
@@ -696,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |

@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3548-equal-sum-grid-partition-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
+| [3583-count-special-triplets](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3583-count-special-triplets/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 | [3637-trionic-array-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3637-trionic-array-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -653,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3583-count-special-triplets](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3583-count-special-triplets/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -740,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3583-count-special-triplets](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3583-count-special-triplets/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3142-check-if-grid-satisfies-conditions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3142-check-if-grid-satisfies-conditions/) | Easy |
 | [3151-special-array-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3151-special-array-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3164-find-the-number-of-good-pairs-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3164-find-the-number-of-good-pairs-ii/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3206-alternating-groups-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3206-alternating-groups-i/) | Easy |
@@ -652,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3164-find-the-number-of-good-pairs-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3164-find-the-number-of-good-pairs-ii/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |

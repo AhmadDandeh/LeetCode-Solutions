@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
+| [0682-baseball-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0739-daily-temperatures](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -772,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0068-text-justification/) | Hard |
 | [0566-reshape-the-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0682-baseball-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
@@ -872,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
+| [0682-baseball-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |

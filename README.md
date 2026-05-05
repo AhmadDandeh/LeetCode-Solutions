@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2483-minimum-penalty-for-a-shop](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2546-apply-bitwise-operations-to-make-strings-equal/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2678-number-of-senior-citizens/) | Easy |
@@ -717,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-largest-magic-square](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1895-largest-magic-square/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2483-minimum-penalty-for-a-shop](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2906-construct-product-matrix/) | Medium |

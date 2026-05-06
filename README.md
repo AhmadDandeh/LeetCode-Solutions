@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-find-triangular-sum-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
 | [2293-min-max-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2293-min-max-game/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2363-merge-similar-items](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2363-merge-similar-items/) | Easy |
@@ -492,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
 | [2363-merge-similar-items](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2363-merge-similar-items/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |

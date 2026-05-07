@@ -534,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
 | [0507-perfect-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0840-magic-squares-in-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0843-guess-the-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0843-guess-the-word/) | Hard |
 | [0989-add-to-array-form-of-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -699,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0476-number-complement](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0476-number-complement/) | Easy |
 | [0645-set-mismatch](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0868-binary-gap](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0868-binary-gap/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |

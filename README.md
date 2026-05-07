@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1313-decompress-run-length-encoded-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1381-design-a-stack-with-increment-operation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1390-four-divisors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1390-four-divisors/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -861,6 +862,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [1046-last-stone-weight](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1405-longest-happy-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
 | [1845-seat-reservation-manager](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1845-seat-reservation-manager/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |

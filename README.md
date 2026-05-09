@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
 | [0709-to-lower-case](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0767-reorganize-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [0771-jewels-and-stones](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0830-positions-of-large-groups](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0830-positions-of-large-groups/) | Easy |
 | [0843-guess-the-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0843-guess-the-word/) | Hard |
@@ -648,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0705-design-hashset](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0767-reorganize-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [0771-jewels-and-stones](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0840-magic-squares-in-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |

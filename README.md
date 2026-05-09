@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0757-set-intersection-size-at-least-two](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
+| [0832-flipping-an-image](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0840-magic-squares-in-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0843-guess-the-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0843-guess-the-word/) | Hard |
 | [0848-shifting-letters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0848-shifting-letters/) | Medium |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
+| [0832-flipping-an-image](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0942-di-string-match](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -709,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [0832-flipping-an-image](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0868-binary-gap](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0868-binary-gap/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -803,6 +806,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
+| [0832-flipping-an-image](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1041-robot-bounded-in-circle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
@@ -979,6 +983,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0832-flipping-an-image](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0840-magic-squares-in-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |

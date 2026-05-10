@@ -459,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1405-longest-happy-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [1753-maximum-score-from-removing-stones](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [1975-maximum-matrix-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1975-maximum-matrix-sum/) | Medium |
@@ -555,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1753-maximum-score-from-removing-stones](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -896,6 +898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1405-longest-happy-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
+| [1753-maximum-score-from-removing-stones](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1845-seat-reservation-manager](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1845-seat-reservation-manager/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |

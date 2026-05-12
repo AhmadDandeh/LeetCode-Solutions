@@ -1126,6 +1126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
@@ -1153,12 +1154,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 <!---LeetCode Topics End-->

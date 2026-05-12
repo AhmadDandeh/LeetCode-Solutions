@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-find-common-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1046-last-stone-weight](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1051-height-checker](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1122-relative-sort-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
@@ -514,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1090-largest-values-from-labels](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1122-relative-sort-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -807,6 +809,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0621-task-scheduler](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [1051-height-checker](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1090-largest-values-from-labels](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1122-relative-sort-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |

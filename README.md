@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1332-remove-palindromic-subsequences/) | Easy |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1405-longest-happy-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |

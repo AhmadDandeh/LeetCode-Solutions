@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1346-check-if-n-and-its-double-exist](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1390-four-divisors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1390-four-divisors/) | Medium |
@@ -539,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1202-smallest-string-with-swaps](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -774,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-binary-prefix-divisible-by-5](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1720-decode-xored-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1720-decode-xored-array/) | Easy |
 | [1829-maximum-xor-for-each-query](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1829-maximum-xor-for-each-query/) | Medium |
@@ -840,6 +843,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1122-relative-sort-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |

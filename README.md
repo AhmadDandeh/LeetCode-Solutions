@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
 | [2293-min-max-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2293-min-max-game/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
+| [2348-number-of-zero-filled-subarrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2363-merge-similar-items](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2363-merge-similar-items/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2365-task-scheduler-ii/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -622,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-find-triangular-sum-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [2348-number-of-zero-filled-subarrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2549-count-distinct-numbers-on-board/) | Easy |

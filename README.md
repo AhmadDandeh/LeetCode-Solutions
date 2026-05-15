@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2202-maximize-the-topmost-element-after-k-moves/) | Medium |
 | [2217-find-palindrome-with-fixed-length](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2217-find-palindrome-with-fixed-length/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |
@@ -508,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2202-maximize-the-topmost-element-after-k-moves/) | Medium |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |

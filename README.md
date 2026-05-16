@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1476-subrectangle-queries](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |

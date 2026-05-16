@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1895-largest-magic-square](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1895-largest-magic-square/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
@@ -900,6 +901,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1920-build-array-from-permutation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |

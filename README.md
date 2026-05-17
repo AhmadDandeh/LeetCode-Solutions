@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1289-minimum-falling-path-sum-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1306-jump-game-iii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -1194,6 +1195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1306-jump-game-iii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Breadth-First Search
@@ -1204,6 +1206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1306-jump-game-iii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |

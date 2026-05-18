@@ -362,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
+| [1396-design-underground-system](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1396-design-underground-system/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1405-longest-happy-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1405-longest-happy-string/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -751,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1346-check-if-n-and-its-double-exist](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1396-design-underground-system](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1396-design-underground-system/) | Medium |
 | [1496-path-crossing](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1496-path-crossing/) | Easy |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -1176,6 +1178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0705-design-hashset](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
+| [1396-design-underground-system](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1396-design-underground-system/) | Medium |
 | [1476-subrectangle-queries](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1845-seat-reservation-manager](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1845-seat-reservation-manager/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |

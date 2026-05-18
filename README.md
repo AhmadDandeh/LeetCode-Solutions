@@ -380,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1816-truncate-sentence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [1844-replace-all-digits-with-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1844-replace-all-digits-with-characters/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
@@ -571,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1859-sorting-the-sentence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |

@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1800-maximum-ascending-subarray-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1816-truncate-sentence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1829-maximum-xor-for-each-query](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |

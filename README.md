@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1528-shuffle-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1496-path-crossing](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1496-path-crossing/) | Easy |
+| [1528-shuffle-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1592-rearrange-spaces-between-words](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1592-rearrange-spaces-between-words/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |

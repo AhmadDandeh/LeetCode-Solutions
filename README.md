@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-shuffle-the-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1476-subrectangle-queries](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1476-subrectangle-queries/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -849,6 +850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0848-shifting-letters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |

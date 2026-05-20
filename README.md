@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
 | [2293-min-max-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2293-min-max-game/) | Easy |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2363-merge-similar-items](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2363-merge-similar-items/) | Easy |
@@ -539,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2202-maximize-the-topmost-element-after-k-moves/) | Medium |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -594,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2363-merge-similar-items](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2363-merge-similar-items/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |

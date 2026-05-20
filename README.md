@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2500-delete-greatest-value-in-each-row](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2527-find-xor-beauty-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
@@ -667,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
+| [2527-find-xor-beauty-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
@@ -844,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2401-longest-nice-subarray](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [2527-find-xor-beauty-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2546-apply-bitwise-operations-to-make-strings-equal/) | Medium |
 | [2595-number-of-even-and-odd-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |

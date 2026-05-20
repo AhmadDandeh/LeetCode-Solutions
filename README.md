@@ -350,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-number-of-matching-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0796-rotate-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0830-positions-of-large-groups](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0830-positions-of-large-groups/) | Easy |
+| [0831-masking-personal-information](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0831-masking-personal-information/) | Medium |
 | [0843-guess-the-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0843-guess-the-word/) | Hard |
 | [0848-shifting-letters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |

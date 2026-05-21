@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1773-count-items-matching-a-rule](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1816-truncate-sentence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1816-truncate-sentence/) | Easy |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1773-count-items-matching-a-rule](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1816-truncate-sentence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1816-truncate-sentence/) | Easy |

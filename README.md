@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [0896-monotonic-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |

@@ -676,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2081-sum-of-k-mirror-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2081-sum-of-k-mirror-numbers/) | Hard |
 | [2119-a-number-after-a-double-reversal](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2217-find-palindrome-with-fixed-length](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2217-find-palindrome-with-fixed-length/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
@@ -977,6 +978,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2293-min-max-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2293-min-max-game/) | Easy |

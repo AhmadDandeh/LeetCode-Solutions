@@ -676,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2443-sum-of-number-and-its-reverse](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2527-find-xor-beauty-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -1125,6 +1126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2081-sum-of-k-mirror-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2081-sum-of-k-mirror-numbers/) | Hard |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2443-sum-of-number-and-its-reverse](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2843-count-symmetric-integers/) | Easy |
 | [2951-find-the-peaks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2951-find-the-peaks/) | Easy |

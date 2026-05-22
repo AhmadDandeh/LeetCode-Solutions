@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3583-count-special-triplets](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3583-count-special-triplets/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
@@ -561,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3075-maximize-happiness-of-selected-children](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3439-reschedule-meetings-for-maximum-free-time-i/) | Medium |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3680-generate-schedule](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3680-generate-schedule/) | Medium |
 ## Sorting
@@ -624,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -818,6 +821,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
 | [3583-count-special-triplets](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3583-count-special-triplets/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -1050,6 +1054,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2558-take-gifts-from-the-richest-pile](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2974-minimum-number-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | Medium |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |

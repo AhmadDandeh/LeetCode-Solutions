@@ -392,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1496-path-crossing](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1496-path-crossing/) | Easy |
 | [1528-shuffle-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
@@ -1030,6 +1031,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |

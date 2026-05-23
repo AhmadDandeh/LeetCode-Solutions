@@ -1282,6 +1282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Depth-First Search

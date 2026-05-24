@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2432-the-employee-that-worked-on-the-longest-task/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
@@ -700,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2240-number-of-ways-to-buy-pens-and-pencils/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2443-sum-of-number-and-its-reverse](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2527-find-xor-beauty-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
@@ -828,6 +830,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2365-task-scheduler-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2365-task-scheduler-ii/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2540-minimum-common-value](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
@@ -960,6 +963,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |

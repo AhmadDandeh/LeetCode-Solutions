@@ -470,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-vowels-game-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3248-snake-in-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
+| [3271-hash-divided-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3271-hash-divided-string/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i/) | Medium |
 | [3330-find-the-original-typed-string-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3330-find-the-original-typed-string-i/) | Easy |
@@ -1021,6 +1022,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3174-clear-digits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3174-clear-digits/) | Easy |
 | [3248-snake-in-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3271-hash-divided-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3271-hash-divided-string/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3379-transformed-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3379-transformed-array/) | Easy |

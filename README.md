@@ -706,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2443-sum-of-number-and-its-reverse](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2527-find-xor-beauty-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2549-count-distinct-numbers-on-board/) | Easy |

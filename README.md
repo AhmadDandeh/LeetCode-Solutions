@@ -467,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3019-number-of-changing-keys](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3110-score-of-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3136-valid-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3136-valid-word/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
@@ -845,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3164-find-the-number-of-good-pairs-ii/) | Medium |

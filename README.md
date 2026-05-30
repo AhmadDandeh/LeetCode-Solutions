@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0396-rotate-function](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
@@ -507,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
@@ -596,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0274-h-index](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0274-h-index/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -791,6 +794,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0290-word-pattern/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -1152,6 +1156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |

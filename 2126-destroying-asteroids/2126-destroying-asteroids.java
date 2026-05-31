@@ -2,9 +2,9 @@ class Solution {
     public boolean asteroidsDestroyed(int mass, int[] asteroids) {
         Arrays.sort(asteroids);
         long currentMass = mass;
-        for(int i=0; i<asteroids.length; i++){
-            if(asteroids[i]>currentMass) return false;
-            else currentMass += asteroids[i];
+        for(int num: asteroids){
+            if(num>currentMass) return false;
+            else currentMass += num;
         }
         return true;
     }

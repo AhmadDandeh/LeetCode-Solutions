@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0228-summary-ranges/) | Easy |
+| [0229-majority-element-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0260-single-number-iii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0274-h-index](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0274-h-index/) | Medium |
@@ -599,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0274-h-index](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0274-h-index/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -796,6 +798,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -958,6 +961,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0274-h-index](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0274-h-index/) | Medium |
 | [0383-ransom-note](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0561-array-partition](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |

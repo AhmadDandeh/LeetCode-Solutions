@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2073-time-needed-to-buy-tickets](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2126-destroying-asteroids](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -537,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -713,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2081-sum-of-k-mirror-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2081-sum-of-k-mirror-numbers/) | Hard |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
@@ -786,6 +789,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -1085,6 +1089,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |

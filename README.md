@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2155-all-divisions-with-the-highest-score-of-a-binary-array/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2202-maximize-the-topmost-element-after-k-moves/) | Medium |
 | [2217-find-palindrome-with-fixed-length](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2217-find-palindrome-with-fixed-length/) | Medium |
@@ -853,6 +854,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2363-merge-similar-items](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2363-merge-similar-items/) | Easy |
@@ -1390,6 +1392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1397,6 +1400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |

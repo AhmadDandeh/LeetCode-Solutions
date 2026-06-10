@@ -370,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0434-number-of-segments-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0482-license-key-formatting](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0482-license-key-formatting/) | Easy |
+| [0504-base-7](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0504-base-7/) | Easy |
 | [0520-detect-capital](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0520-detect-capital/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0541-reverse-string-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
@@ -694,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0396-rotate-function](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
+| [0504-base-7](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0564-find-the-closest-palindrome](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0728-self-dividing-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0728-self-dividing-numbers/) | Easy |

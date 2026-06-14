@@ -716,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1390-four-divisors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1390-four-divisors/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1492-the-kth-factor-of-n](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -1286,6 +1287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |

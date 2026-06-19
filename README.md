@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1051-height-checker](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
+| [1109-corporate-flight-bookings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1122-relative-sort-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1184-distance-between-bus-stops](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1184-distance-between-bus-stops/) | Easy |
@@ -964,6 +965,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0848-shifting-letters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0848-shifting-letters/) | Medium |
+| [1109-corporate-flight-bookings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |

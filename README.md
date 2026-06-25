@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-find-common-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1046-last-stone-weight](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1049-last-stone-weight-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1051-height-checker](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
@@ -816,6 +817,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |

@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1534-count-good-triplets/) | Easy |
+| [1550-three-consecutive-odds](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |

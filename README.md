@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2202-maximize-the-topmost-element-after-k-moves/) | Medium |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2210-count-hills-and-valleys-in-an-array/) | Easy |
 | [2217-find-palindrome-with-fixed-length](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2217-find-palindrome-with-fixed-length/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2239-find-closest-number-to-zero/) | Easy |

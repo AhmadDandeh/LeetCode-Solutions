@@ -788,6 +788,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3680-generate-schedule](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3680-generate-schedule/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -1329,6 +1330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-find-triangular-sum-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3334-find-the-maximum-factor-score-of-array/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |

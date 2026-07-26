@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0575-distribute-candies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0621-task-scheduler](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -648,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0621-task-scheduler](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0757-set-intersection-size-at-least-two](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
@@ -728,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0504-base-7](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0564-find-the-closest-palindrome](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0564-find-the-closest-palindrome/) | Hard |
+| [0628-maximum-product-of-three-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0840-magic-squares-in-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0840-magic-squares-in-grid/) | Medium |

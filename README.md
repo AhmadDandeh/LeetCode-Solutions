@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3206-alternating-groups-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3206-alternating-groups-i/) | Easy |
 | [3208-alternating-groups-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3208-alternating-groups-ii/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3238-find-the-number-of-winning-players](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
 | [3248-snake-in-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3248-snake-in-matrix/) | Easy |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
@@ -929,6 +930,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3146-permutation-difference-between-two-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3164-find-the-number-of-good-pairs-ii/) | Medium |
+| [3238-find-the-number-of-winning-players](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i/) | Medium |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
@@ -1056,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2404-most-frequent-even-element](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3238-find-the-number-of-winning-players](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3438-find-valid-pair-of-adjacent-digits-in-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |

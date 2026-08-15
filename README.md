@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3680-generate-schedule](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3680-generate-schedule/) | Medium |
 | [3683-earliest-time-to-finish-one-task](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3708-longest-fibonacci-subarray](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3708-longest-fibonacci-subarray/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -1001,6 +1002,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |

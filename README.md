@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2029-stone-game-ix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -618,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [1975-maximum-matrix-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1975-maximum-matrix-sum/) | Medium |
+| [2029-stone-game-ix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -761,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1925-count-square-sum-triples/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2081-sum-of-k-mirror-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2081-sum-of-k-mirror-numbers/) | Hard |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
@@ -1059,6 +1062,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1684-count-the-number-of-consistent-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2029-stone-game-ix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -1369,6 +1373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0843-guess-the-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0843-guess-the-word/) | Hard |
+| [2029-stone-game-ix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Queue
@@ -1500,4 +1505,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->

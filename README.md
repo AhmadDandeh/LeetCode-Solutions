@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3028-ant-on-the-boundary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
@@ -1145,6 +1146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2974-minimum-number-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3174-clear-digits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3174-clear-digits/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |

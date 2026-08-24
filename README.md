@@ -1454,6 +1454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0622-design-circular-queue](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [0705-design-hashset](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |

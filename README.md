@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2562-find-the-array-concatenation-value/) | Easy |
+| [2568-minimum-impossible-or](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2568-minimum-impossible-or/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
@@ -1005,6 +1006,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2527-find-xor-beauty-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [2546-apply-bitwise-operations-to-make-strings-equal](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2546-apply-bitwise-operations-to-make-strings-equal/) | Medium |
+| [2568-minimum-impossible-or](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2568-minimum-impossible-or/) | Medium |
 | [2595-number-of-even-and-odd-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2683-neighboring-bitwise-xor](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2683-neighboring-bitwise-xor/) | Medium |
@@ -1385,6 +1387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
+| [2568-minimum-impossible-or](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2568-minimum-impossible-or/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 ## Game Theory

@@ -294,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2942-find-words-containing-character](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2943-maximize-area-of-square-hole-in-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2951-find-the-peaks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2951-find-the-peaks/) | Easy |
 | [2974-minimum-number-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
@@ -712,6 +713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2785-sort-vowels-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2943-maximize-area-of-square-hole-in-grid/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2974-minimum-number-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3011-find-if-array-can-be-sorted](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
@@ -1297,6 +1299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |

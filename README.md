@@ -397,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
@@ -893,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -1068,6 +1070,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0274-h-index](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0274-h-index/) | Medium |
 | [0383-ransom-note](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0561-array-partition](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0621-task-scheduler](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
@@ -1408,6 +1411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0622-design-circular-queue](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0622-design-circular-queue/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |

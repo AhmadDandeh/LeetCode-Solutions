@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -827,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3680-generate-schedule](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3680-generate-schedule/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

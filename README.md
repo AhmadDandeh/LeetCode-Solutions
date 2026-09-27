@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
+| [0035-search-insert-position](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
@@ -1293,6 +1294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |

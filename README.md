@@ -763,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0172-factorial-trailing-zeroes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0258-add-digits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0273-integer-to-english-words](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [0343-integer-break](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0343-integer-break/) | Medium |
@@ -1144,6 +1145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0068-text-justification/) | Hard |
+| [0258-add-digits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
@@ -1416,6 +1418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |

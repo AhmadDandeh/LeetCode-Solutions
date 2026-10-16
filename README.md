@@ -764,6 +764,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0273-integer-to-english-words](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [0343-integer-break](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0343-integer-break/) | Medium |

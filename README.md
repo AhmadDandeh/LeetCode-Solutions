@@ -569,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -1282,6 +1283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0682-baseball-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
@@ -1458,6 +1460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0273-integer-to-english-words](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
@@ -1504,6 +1507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0622-design-circular-queue](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0622-design-circular-queue/) | Medium |

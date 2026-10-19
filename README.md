@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2057-smallest-index-with-equal-value](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
@@ -722,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -1344,6 +1346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1346-check-if-n-and-its-double-exist](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3453-separate-squares-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3453-separate-squares-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |

@@ -427,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0482-license-key-formatting](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0482-license-key-formatting/) | Easy |
 | [0504-base-7](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0504-base-7/) | Easy |
 | [0520-detect-capital](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0520-detect-capital/) | Easy |
+| [0521-longest-uncommon-subsequence-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0541-reverse-string-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |

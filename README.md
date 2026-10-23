@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [0941-valid-mountain-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0942-di-string-match](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |

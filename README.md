@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-last-stone-weight-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1051-height-checker](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
+| [1089-duplicate-zeros](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1090-largest-values-from-labels](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1122-relative-sort-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
@@ -599,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0922-sort-array-by-parity-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0942-di-string-match](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |

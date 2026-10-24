@@ -1590,6 +1590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0419-battleships-in-a-board](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0733-flood-fill](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
@@ -1645,6 +1646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -1666,6 +1668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -1712,4 +1715,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 <!---LeetCode Topics End-->

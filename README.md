@@ -520,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2315-count-asterisks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2315-count-asterisks/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
+| [2409-count-days-spent-together](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
@@ -841,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2409-count-days-spent-together](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2443-sum-of-number-and-its-reverse](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |

@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
@@ -1181,6 +1182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0068-text-justification/) | Hard |
@@ -1426,6 +1428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |

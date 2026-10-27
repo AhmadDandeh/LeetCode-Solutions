@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0495-teemo-attacking](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0498-diagonal-traverse](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0498-diagonal-traverse/) | Medium |
+| [0500-keyboard-row](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0518-coin-change-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0561-array-partition](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0482-license-key-formatting](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0482-license-key-formatting/) | Easy |
+| [0500-keyboard-row](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0504-base-7](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0504-base-7/) | Easy |
 | [0520-detect-capital](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0520-detect-capital/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
@@ -965,6 +967,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0575-distribute-candies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |

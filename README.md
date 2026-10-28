@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0454-4sum-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -969,6 +970,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0454-4sum-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |

@@ -11,8 +11,7 @@ class Solution {
 
         for(int num3: nums3){
             for(int num4: nums4){
-                sum = num3 + num4;
-                ans += map.getOrDefault(-sum, 0);
+                ans += map.getOrDefault(-(num3 + num4), 0);
             }
         }
         return ans;

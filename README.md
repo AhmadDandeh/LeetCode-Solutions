@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
+| [0704-binary-search](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
@@ -1392,6 +1393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0704-binary-search](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |

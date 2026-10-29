@@ -1307,6 +1307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0841-keys-and-rooms](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3650-minimum-cost-path-with-edge-reversals/) | Medium |
@@ -1625,6 +1626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
+| [0841-keys-and-rooms](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -1648,6 +1650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
+| [0841-keys-and-rooms](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |

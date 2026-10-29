@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0757-set-intersection-size-at-least-two](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
+| [0766-toeplitz-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0832-flipping-an-image](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0840-magic-squares-in-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0840-magic-squares-in-grid/) | Medium |
@@ -1459,6 +1460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0733-flood-fill](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0840-magic-squares-in-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |

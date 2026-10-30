@@ -431,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0409-longest-palindrome](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
@@ -1352,6 +1353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0394-decode-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0682-baseball-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
@@ -1543,6 +1545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0273-integer-to-english-words](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0273-integer-to-english-words/) | Hard |
+| [0394-decode-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |

@@ -1625,6 +1625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
@@ -1650,6 +1651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0463-island-perimeter](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0463-island-perimeter/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
@@ -1686,6 +1688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -1712,6 +1715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |

@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0748-shortest-completing-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [0757-set-intersection-size-at-least-two](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0766-toeplitz-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0686-repeated-string-match](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0686-repeated-string-match/) | Medium |
 | [0696-count-binary-substrings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
 | [0709-to-lower-case](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
+| [0748-shortest-completing-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [0767-reorganize-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
@@ -990,6 +992,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0705-design-hashset](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
+| [0748-shortest-completing-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [0767-reorganize-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |

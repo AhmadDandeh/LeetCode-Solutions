@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1354-construct-target-array-with-multiple-sums](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1375-number-of-times-binary-string-is-prefix-aligned/) | Medium |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |

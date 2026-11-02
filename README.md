@@ -507,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1684-count-the-number-of-consistent-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1759-count-number-of-homogenous-substrings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
@@ -855,6 +856,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1753-maximum-score-from-removing-stones](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
+| [1759-count-number-of-homogenous-substrings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1925-count-square-sum-triples/) | Easy |

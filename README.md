@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0848-shifting-letters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0849-maximize-distance-to-closest-person](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0849-maximize-distance-to-closest-person/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0867-transpose-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0896-monotonic-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0896-monotonic-array/) | Easy |
@@ -1238,6 +1239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
+| [0867-transpose-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [0999-available-captures-for-rook](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0999-available-captures-for-rook/) | Easy |
@@ -1494,6 +1496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0766-toeplitz-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0840-magic-squares-in-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0840-magic-squares-in-grid/) | Medium |
+| [0867-transpose-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0999-available-captures-for-rook](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1260-shift-2d-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |

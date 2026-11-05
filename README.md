@@ -1384,6 +1384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -1601,6 +1602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -1735,6 +1737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0226-invert-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -1764,6 +1767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0226-invert-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -1817,6 +1821,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -1844,4 +1849,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->

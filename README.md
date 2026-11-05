@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-add-to-array-form-of-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1002-find-common-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1002-find-common-characters/) | Easy |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1046-last-stone-weight](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1049-last-stone-weight-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
@@ -683,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0860-lemonade-change](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0942-di-string-match](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0942-di-string-match/) | Easy |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1090-largest-values-from-labels](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |

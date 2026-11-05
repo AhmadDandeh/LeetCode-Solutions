@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1375-number-of-times-binary-string-is-prefix-aligned/) | Medium |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1390-four-divisors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1390-four-divisors/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -635,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1089-duplicate-zeros](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -760,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1346-check-if-n-and-its-double-exist](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -1434,6 +1437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2540-minimum-common-value/) | Easy |

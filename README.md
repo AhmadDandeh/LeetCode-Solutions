@@ -827,6 +827,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0172-factorial-trailing-zeroes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -1097,6 +1098,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [0231-power-of-two](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0338-counting-bits/) | Easy |
@@ -1583,6 +1585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0273-integer-to-english-words](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [0394-decode-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |

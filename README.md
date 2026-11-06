@@ -1707,6 +1707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0463-island-perimeter](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -1745,6 +1746,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0226-invert-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |

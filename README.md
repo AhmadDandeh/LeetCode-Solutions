@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-find-common-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
+| [1037-valid-boomerang](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1037-valid-boomerang/) | Easy |
 | [1046-last-stone-weight](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1049-last-stone-weight-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1051-height-checker](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
@@ -854,6 +855,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0843-guess-the-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0843-guess-the-word/) | Hard |
 | [0989-add-to-array-form-of-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+| [1037-valid-boomerang](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1037-valid-boomerang/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
@@ -1795,6 +1797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
+| [1037-valid-boomerang](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1037-valid-boomerang/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 ## Memoization

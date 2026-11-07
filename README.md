@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1865-finding-pairs-with-a-certain-sum/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1895-largest-magic-square](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1895-largest-magic-square/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -1371,6 +1372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-maximum-score-from-removing-stones](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1845-seat-reservation-manager](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1845-seat-reservation-manager/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |

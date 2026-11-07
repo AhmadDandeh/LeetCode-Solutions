@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0498-diagonal-traverse](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0500-keyboard-row](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0500-keyboard-row/) | Easy |
+| [0506-relative-ranks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0518-coin-change-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0561-array-partition](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -746,6 +747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0506-relative-ranks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0621-task-scheduler](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
@@ -1357,6 +1359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0506-relative-ranks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0621-task-scheduler](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0767-reorganize-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |

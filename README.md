@@ -489,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1078-occurrences-after-bigram](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1078-occurrences-after-bigram/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1154-day-of-the-year](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -861,6 +862,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-valid-boomerang](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1037-valid-boomerang/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1154-day-of-the-year](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |

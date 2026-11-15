@@ -1711,6 +1711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -1739,6 +1740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0752-open-the-lock](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0752-open-the-lock/) | Medium |
 | [0841-keys-and-rooms](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0993-cousins-in-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1306-jump-game-iii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1306-jump-game-iii/) | Medium |
@@ -1782,6 +1784,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
@@ -1813,6 +1816,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |

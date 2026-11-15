@@ -289,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2293-min-max-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2293-min-max-game/) | Easy |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2363-merge-similar-items](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2363-merge-similar-items/) | Easy |
 | [2365-task-scheduler-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2365-task-scheduler-ii/) | Medium |
@@ -560,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2278-percentage-of-letter-in-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2315-count-asterisks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2315-count-asterisks/) | Easy |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2409-count-days-spent-together](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
@@ -802,6 +804,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2274-maximum-consecutive-floors-without-special-floors/) | Medium |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2363-merge-similar-items](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2363-merge-similar-items/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -957,6 +960,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -1392,6 +1396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2974-minimum-number-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
@@ -1908,4 +1913,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 <!---LeetCode Topics End-->

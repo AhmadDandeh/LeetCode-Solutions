@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-number-of-matching-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [0819-most-common-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0832-flipping-an-image](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0840-magic-squares-in-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0843-guess-the-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0843-guess-the-word/) | Hard |
@@ -484,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [0819-most-common-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0824-goat-latin](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0824-goat-latin/) | Easy |
 | [0830-positions-of-large-groups](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0830-positions-of-large-groups/) | Easy |
 | [0831-masking-personal-information](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0831-masking-personal-information/) | Medium |
@@ -1057,6 +1059,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0819-most-common-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0840-magic-squares-in-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0859-buddy-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
@@ -1234,6 +1237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0621-task-scheduler](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [0819-most-common-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1051-height-checker](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1090-largest-values-from-labels](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |

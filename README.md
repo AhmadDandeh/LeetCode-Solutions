@@ -881,6 +881,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1041-robot-bounded-in-circle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1154-day-of-the-year](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1154-day-of-the-year/) | Easy |
+| [1175-prime-arrangements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1175-prime-arrangements/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -1930,4 +1931,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1175-prime-arrangements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1175-prime-arrangements/) | Easy |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1175-prime-arrangements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1175-prime-arrangements/) | Easy |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1175-prime-arrangements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1175-prime-arrangements/) | Easy |
 <!---LeetCode Topics End-->

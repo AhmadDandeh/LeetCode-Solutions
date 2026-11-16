@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-distance-between-bus-stops](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1232-check-if-it-is-a-straight-line](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
@@ -882,6 +883,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1154-day-of-the-year](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1175-prime-arrangements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1175-prime-arrangements/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -1845,6 +1847,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1037-valid-boomerang](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1037-valid-boomerang/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 ## Memoization

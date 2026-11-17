@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-valid-mountain-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0942-di-string-match](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
+| [0953-verifying-an-alien-dictionary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -497,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-long-pressed-name](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [0942-di-string-match](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
+| [0953-verifying-an-alien-dictionary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1002-find-common-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1041-robot-bounded-in-circle/) | Medium |
@@ -1067,6 +1069,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [0953-verifying-an-alien-dictionary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1002-find-common-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1002-find-common-characters/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |

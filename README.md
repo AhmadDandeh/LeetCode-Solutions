@@ -857,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0273-integer-to-english-words](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0273-integer-to-english-words/) | Hard |
+| [0292-nim-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0343-integer-break](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0343-integer-break/) | Medium |
 | [0367-valid-perfect-square](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
@@ -1605,6 +1606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
@@ -1614,6 +1616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0843-guess-the-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0843-guess-the-word/) | Hard |
 | [1025-divisor-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1927-sum-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
@@ -1867,10 +1870,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [2029-stone-game-ix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [2029-stone-game-ix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -1934,6 +1939,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Impartial Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 ## Radix Sort
 | Problem Name | Difficulty |

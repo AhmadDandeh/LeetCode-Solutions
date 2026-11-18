@@ -514,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1332-remove-palindromic-subsequences/) | Easy |
@@ -717,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-largest-perimeter-triangle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1090-largest-values-from-labels](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1090-largest-values-from-labels/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -1258,6 +1260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1128-number-of-equivalent-domino-pairs](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |

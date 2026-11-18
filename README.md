@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0896-monotonic-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0929-unique-email-addresses](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0941-valid-mountain-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0942-di-string-match](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0942-di-string-match/) | Easy |
@@ -496,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0884-uncommon-words-from-two-sentences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0925-long-pressed-name](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0925-long-pressed-name/) | Easy |
+| [0929-unique-email-addresses](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0942-di-string-match](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
@@ -1071,6 +1073,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [0929-unique-email-addresses](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1002-find-common-characters](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1002-find-common-characters/) | Easy |

@@ -510,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1078-occurrences-after-bigram](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1078-occurrences-after-bigram/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1154-day-of-the-year](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1154-day-of-the-year/) | Easy |
@@ -903,6 +904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-divisor-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1037-valid-boomerang](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1037-valid-boomerang/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1041-robot-bounded-in-circle/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1154-day-of-the-year](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1175-prime-arrangements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1175-prime-arrangements/) | Easy |
@@ -1958,10 +1960,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [2427-number-of-common-factors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [2427-number-of-common-factors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 ## Iterator
 | Problem Name | Difficulty |

@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2562-find-the-array-concatenation-value/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2568-minimum-impossible-or](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2568-minimum-impossible-or/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -746,6 +747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
@@ -823,6 +825,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2343-query-kth-smallest-trimmed-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2363-merge-similar-items](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2363-merge-similar-items/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2751-robot-collisions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |

@@ -880,6 +880,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [0292-nim-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0343-integer-break](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0343-integer-break/) | Medium |
 | [0367-valid-perfect-square](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -1173,6 +1174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0338-counting-bits/) | Easy |
+| [0342-power-of-four](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0461-hamming-distance](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0461-hamming-distance/) | Easy |
@@ -1681,6 +1683,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0273-integer-to-english-words](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [0326-power-of-three](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0394-decode-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |

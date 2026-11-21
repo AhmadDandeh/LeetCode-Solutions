@@ -1183,6 +1183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0401-binary-watch](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0401-binary-watch/) | Easy |
 | [0461-hamming-distance](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0476-number-complement/) | Easy |
 | [0645-set-mismatch](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
@@ -1580,6 +1581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
+| [0401-binary-watch](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0401-binary-watch/) | Easy |
 | [0494-target-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 ## Matrix

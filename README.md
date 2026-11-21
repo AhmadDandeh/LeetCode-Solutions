@@ -890,6 +890,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0441-arranging-coins/) | Easy |
+| [0492-construct-the-rectangle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |

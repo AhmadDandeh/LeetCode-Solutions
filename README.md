@@ -1781,6 +1781,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0841-keys-and-rooms](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0897-increasing-order-search-tree/) | Easy |
@@ -1815,6 +1816,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0752-open-the-lock](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0752-open-the-lock/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0841-keys-and-rooms](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -1864,6 +1866,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -1901,6 +1904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -1959,6 +1963,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 ## DP on Trees

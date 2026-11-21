@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [0888-fair-candy-swap](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0896-monotonic-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -796,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0757-set-intersection-size-at-least-two](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0767-reorganize-string](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0888-fair-candy-swap](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -1096,6 +1098,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [0888-fair-candy-swap](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0929-unique-email-addresses](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
@@ -1531,6 +1534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0888-fair-candy-swap](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |

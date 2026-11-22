@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-projection-area-of-3d-shapes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0888-fair-candy-swap](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [0892-surface-area-of-3d-shapes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0896-monotonic-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0908-smallest-range-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0908-smallest-range-i/) | Easy |
@@ -905,6 +906,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0840-magic-squares-in-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0843-guess-the-word](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0843-guess-the-word/) | Hard |
 | [0883-projection-area-of-3d-shapes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0908-smallest-range-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0908-smallest-range-i/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -1608,6 +1610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0840-magic-squares-in-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0867-transpose-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0999-available-captures-for-rook](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1260-shift-2d-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
@@ -1931,6 +1934,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1037-valid-boomerang](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1037-valid-boomerang/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |

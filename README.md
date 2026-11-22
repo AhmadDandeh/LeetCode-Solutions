@@ -403,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3452-sum-of-good-numbers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3453-separate-squares-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3453-separate-squares-i/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |

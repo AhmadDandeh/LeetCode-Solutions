@@ -913,6 +913,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-valid-boomerang](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1037-valid-boomerang/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1041-robot-bounded-in-circle/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1103-distribute-candies-to-people](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1154-day-of-the-year](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1175-prime-arrangements](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1175-prime-arrangements/) | Easy |
@@ -1340,6 +1341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0985-sum-of-even-numbers-after-queries](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [0999-available-captures-for-rook](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1041-robot-bounded-in-circle](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1041-robot-bounded-in-circle/) | Medium |
+| [1103-distribute-candies-to-people](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |

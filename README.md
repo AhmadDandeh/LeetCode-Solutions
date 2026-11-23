@@ -334,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
+| [2615-sum-of-distances](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2644-find-the-maximum-divisibility-score](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
@@ -1151,6 +1152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2549-count-distinct-numbers-on-board](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
+| [2615-sum-of-distances](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2716-minimize-string-length](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2716-minimize-string-length/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -1265,6 +1267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2483-minimum-penalty-for-a-shop](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2615-sum-of-distances](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3028-ant-on-the-boundary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |

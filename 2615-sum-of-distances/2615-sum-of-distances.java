@@ -1,38 +1,27 @@
 class Solution {
     public long[] distance(int[] nums) {
-        int n = nums.length;
-        long[] ans = new long[n];
-
-        Map<Integer, Long> count = new HashMap<>();
-        Map<Integer, Long> sum = new HashMap<>();
-
-        for (int i = 0; i < n; i++) {
-            int x = nums[i];
-
-            long c = count.getOrDefault(x, 0L);
-            long s = sum.getOrDefault(x, 0L);
-
-            ans[i] = c * i - s;
-
-            count.put(x, c + 1);
-            sum.put(x, s + i);
+        long[] ans = new long[nums.length];
+        HashMap<Integer, List<Integer>> map = new HashMap<>();
+        HashMap<Integer, Long> sum = new HashMap<>();
+        for(int i = 0; i<nums.length; i++){
+            map.computeIfAbsent(nums[i], k -> new ArrayList<>()).add(i);
+            sum.merge(nums[i], (long) i, Long::sum);
         }
+        for (Map.Entry<Integer, List<Integer>> entry : map.entrySet()) {
+            List<Integer> indices = entry.getValue();
 
-        count.clear();
-        sum.clear();
+            long totalSum = sum.get(entry.getKey());
+            long prefixSum = 0;
+            int size = indices.size();
 
-        for (int i = n - 1; i >= 0; i--) {
-            int x = nums[i];
-
-            long c = count.getOrDefault(x, 0L);
-            long s = sum.getOrDefault(x, 0L);
-
-            ans[i] += s - c * i;
-
-            count.put(x, c + 1);
-            sum.put(x, s + i);
+            for (int j = 0; j < size; j++) {
+                int index = indices.get(j);
+                long left = (long) j * index - prefixSum;
+                long right = (totalSum - prefixSum - index) - (long) (size - j - 1) * index;
+                ans[index] = left + right;
+                prefixSum += index;
+            }
         }
-
         return ans;
     }
 }

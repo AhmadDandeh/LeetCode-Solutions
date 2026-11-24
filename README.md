@@ -400,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3364-minimum-positive-sum-subarray](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3379-transformed-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3379-transformed-array/) | Easy |
 | [3386-button-with-longest-push-time](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3386-button-with-longest-push-time/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3439-reschedule-meetings-for-maximum-free-time-i/) | Medium |
@@ -991,6 +992,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3334-find-the-maximum-factor-score-of-array/) | Medium |
 | [3370-smallest-number-with-all-set-bits](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
@@ -1443,6 +1445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3439-reschedule-meetings-for-maximum-free-time-i/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3634-minimum-removals-to-balance-array/) | Medium |
 ## Graph Theory
@@ -1591,6 +1594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2975-maximum-square-area-by-removing-fences-from-a-field/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Backtracking
@@ -1669,6 +1673,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2427-number-of-common-factors](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3334-find-the-maximum-factor-score-of-array/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |

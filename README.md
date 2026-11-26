@@ -1610,6 +1610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
+| [0077-combinations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0077-combinations/) | Medium |
 | [0089-gray-code](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0401-binary-watch](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0401-binary-watch/) | Easy |
 | [0494-target-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |

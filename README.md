@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0068-text-justification/) | Hard |
+| [0078-subsets](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -1193,6 +1194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
@@ -1611,6 +1613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0401-binary-watch](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0401-binary-watch/) | Easy |
 | [0494-target-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0494-target-sum/) | Medium |

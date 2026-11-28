@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
@@ -1610,6 +1611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/AhmadDandeh/LeetCode-Solutions/tree/main/0077-combinations/) | Medium |
